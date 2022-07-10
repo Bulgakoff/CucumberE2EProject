@@ -1,0 +1,6 @@
+21:59:05.896 [main] INFO  resources.Base1 - resricted user ---2
+21:59:08.434 [main] INFO  resources.Base1 - TestValidateNavigationBar Driver is initialized  === 3 
+21:59:38.579 [main] INFO  resources.Base1 - TestValidateNavigationBar  to home page  === 3
+21:59:38.621 [main] INFO  resources.Base1 - TestValidateNavigationBar successful isDisplayed assert === 3 
+22:00:10.152 [main] INFO  resources.Base1 -  Driver is initialized by Cucumber tool ---2 
+22:00:50.633 [main] INFO  resources.Base1 -  Driver is initialized by Cucumber tool ---2 

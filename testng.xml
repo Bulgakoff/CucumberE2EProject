@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--<suite name="AllSuiteE2E" parallel="tests">-->
+<suite name="AllSuiteE2E">
+    <listeners>
+        <listener class-name="academy.Listeners"></listener>
+    </listeners>
+    <test name="TestValidateTitle">
+        <classes>
+            <class name="academy.TestValidateTitle"></class>
+        </classes>
+    </test>
+    <test name="TestHomePage">
+        <classes>
+            <class name="academy.TestHomePage"></class>
+        </classes>
+    </test>
+    <test name="TestValidateNavigationBar">
+        <classes>
+            <class name="academy.TestValidateNavigationBar"></class>
+        </classes>
+    </test>
+</suite>
